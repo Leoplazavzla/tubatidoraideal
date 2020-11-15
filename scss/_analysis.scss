@@ -1,0 +1,137 @@
+// Title
+.analysis-title {
+  text-align: center;
+  align-self: center;
+  margin: 2rem 0px;
+}
+// main image
+.analysis-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    margin: 1.5rem auto;
+    width: 40%;
+    height: auto;
+  }
+}
+
+// Image Gallery
+.analysis-gallery {
+  display: grid;
+  // grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-rows: repeat(auto-fill, auto);
+  gap: 0.8rem;
+  color: white;
+
+  margin: 2rem 0px;
+}
+
+.analysis-item-container {
+  .analysis-gallery-img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+    background-color: transparent;
+    box-shadow: none;
+    opacity: 1;
+    object-fit: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+// Estilos del video
+
+.analysis-video {
+  @include flexCenter;
+  margin: 1.8rem 0px;
+}
+
+// Product card horizontal way (This is the horizontal product )
+.horizontal-item {
+  margin: 2rem 2rem;
+  border: 1px solid rgb(190, 186, 186);
+  height: auto;
+}
+.product-horizontal-img {
+  @include imageHorizontal;
+}
+
+.product-link-horizontal {
+  @include buyButton;
+  position: relative;
+  top: 0;
+}
+
+.product-title-horizontal {
+  margin: 0.5rem auto;
+  background: white;
+}
+
+.column1 .product-analysis-list {
+  list-style: none;
+  line-height: 1rem;
+  margin-bottom: 1rem;
+}
+
+.column1,
+.column2 {
+  display: inline-block;
+  margin-left: 2rem;
+}
+
+.analysis-banner {
+  @include flexCenter;
+  margin: 2rem auto;
+}
+
+// MEDIA QUERIES
+
+// Media query for the horizontal product
+
+@media screen and (max-width: 768px) {
+  .tabla {
+    margin: 0px auto;
+  }
+
+  .product-horizontal-img {
+    height: 100%;
+    object-fit: cover;
+    margin: 10px auto;
+  }
+
+  .amazon-link {
+    width: 100%;
+  }
+
+  .horizontal-item {
+    width: 90%;
+    margin: 2rem auto;
+  }
+  td {
+    display: block;
+  }
+  tr {
+    width: 100%;
+    margin: 0px auto;
+  }
+
+  .product-link-horizontal {
+    width: 100%;
+  }
+
+  .column1,
+  .column2 {
+    position: relative;
+    margin: 10px auto;
+  }
+
+  li {
+    line-height: 1rem;
+  }
+}

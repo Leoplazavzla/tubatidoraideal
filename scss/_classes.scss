@@ -1,0 +1,45 @@
+%list-style {
+  list-style: none;
+  text-decoration: none;
+  line-height: 1.5rem;
+  padding-left: 2rem;
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+}
+
+%p-style {
+  line-height: 1.5rem;
+  font-size: 1.125rem;
+  margin-bottom: 0.7rem;
+}
+
+.main-title {
+  @include margin-bottom(1rem);
+  font-size: 1.5rem;
+}
+
+.subtitle {
+  @include margin-bottom(2rem);
+  font-size: 1.2rem;
+}
+
+h3 {
+  @include margin-bottom(1rem);
+}
+
+.analysis-parrafo {
+  @include margin-bottom(1.5rem);
+  @extend %p-style;
+}
+
+li {
+  @extend %list-style;
+}
+
+.img {
+  @include flexCenter;
+}
+
+.type-title {
+  margin-left: 1.1rem;
+}
