@@ -1,3 +1,5 @@
+echo "Hola";
+exit;
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -7,7 +9,7 @@
     <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Open+Sans&display=swap" rel="stylesheet">
-    <title>Home - Tubatidoraideal.com</title>
+    <title>Home - Tubatidoraideal.com test</title>
   </head>
 
 
