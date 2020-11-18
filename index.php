@@ -55,7 +55,8 @@ exit;
   <?php include 'includes/cookie-consent.php'; ?>
   <!---------------------------------------- SCRIPTS ----------------------------------------->
   <?php include "includes/scripts.php"; ?>
-  
+
+  <div>hola</div>
   </body>
 </html>
 
