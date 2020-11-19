@@ -11,7 +11,7 @@
         <li><a href="#" >Modelos</a></li>
         <li><a href="#" >Marcas</a></li>
         <li><a href="#" >Reseñas</a></li>
-        <li><a href="https://tubatidoraideal.com/nosotros" >Nosotros</a></li>
+        <li><a href="../nosotros" >Nosotros</a></li>
       </ul>
 
       <div class="burger">

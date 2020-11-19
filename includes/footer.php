@@ -14,8 +14,8 @@
 
                   <ul class="box">
                   <li><a href="https://tubatidoraideal.com/">Inicio</a></li>
-                  <li><a href="https://tubatidoraideal.com/aviso-legal.php">Aviso Legal</a></li>
-                  <li><a href="https://tubatidoraideal.com/politica-de-cookies.php">Política de Cookies</a></li>
+                  <li><a href="../aviso-legal.php">Aviso Legal</a></li>
+                  <li><a href="../politica-de-cookies.php">Política de Cookies</a></li>
                   </ul>
             </li> 
             <li>
