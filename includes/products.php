@@ -43,7 +43,7 @@
 
               <a href="https://amzn.to/31Ykwbl"> 
                 <img
-                src="/template_tsa/img/batidora-bosh-ergomixx-750w.jpg"
+                src="../img/batidora-bosh-ergomixx-750w.jpg"
                 alt=""
                 class="product-img"
                 /></a>
@@ -69,7 +69,7 @@
 
               <a href="https://amzn.to/3kuTvDl"> 
                 <img
-                src="/template_tsa/img/ufesa3.jpg"
+                src="../img/ufesa3.jpg"
                 alt=""
                 class="product-img"
                 /></a>
@@ -95,7 +95,7 @@
 
               <a href="https://amzn.to/2HC8U6y"> 
                 <img
-                src="/template_tsa/img/batidora-de-vaso-portatil-wmf-kult-x-mix.jpg"
+                src="../img/batidora-de-vaso-portatil-wmf-kult-x-mix.jpg"
                 alt=""
                 class="product-img"
                 /></a>
@@ -121,7 +121,7 @@
 
               <a href="https://amzn.to/37HSiVM"> 
                 <img
-                src="/template_tsa/img/batidora-de-vaso-individual-portatil-homegeek.jpg"
+                src="../img/batidora-de-vaso-individual-portatil-homegeek.jpg"
                 alt=""
                 class="product-img"
                 /></a>
@@ -147,7 +147,7 @@
 
               <a href="https://amzn.to/34rkzh9"> 
                 <img
-                src="/template_tsa/img/batidora-portatil-deik-multifuncion.jpg"
+                src="../img/batidora-portatil-deik-multifuncion.jpg"
                 alt=""
                 class="product-img"
                 /></a>
@@ -173,7 +173,7 @@
 
               <a href="https://amzn.to/35CkCGk"> 
                 <img
-                src="/template_tsa/img/batidora-amasadora-aicok-bajo-ruido.jpg"
+                src="../img/batidora-amasadora-aicok-bajo-ruido.jpg"
                 alt=""
                 class="product-img"
                 /></a>
@@ -199,7 +199,7 @@
 
               <a href="https://amzn.to/3onJc6u"> 
                 <img
-                src="/template_tsa/img/batidora-amasadora-Bosh-Ergomixx-para-resposteria.jpg"
+                src="../img/batidora-amasadora-Bosh-Ergomixx-para-resposteria.jpg"
                 alt=""
                 class="product-img"
                 /></a>
@@ -225,7 +225,7 @@
 
               <a href="https://amzn.to/3ksRVlq"> 
                 <img
-                src="/template_tsa/img/Batidora-amasadora-robot-reposteria-twinzee.jpg"
+                src="../img/Batidora-amasadora-robot-reposteria-twinzee.jpg"
                 alt=""
                 class="product-img"
                 /></a>

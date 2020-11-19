@@ -25,7 +25,7 @@
 
             <a href="#"> 
               <img
-              src="/template_tsa/img/kitchenaid-barata.jpg"
+              src="../img/kitchenaid-barata.jpg"
               alt=""
               class="type-img"
               /></a>
@@ -43,7 +43,7 @@
 
             <a href="#"> 
               <img
-              src="/template_tsa/img/batidora-de-vaso-en-oferta.jpg"
+              src="../img/batidora-de-vaso-en-oferta.jpg"
               alt=""
               class="type-img"
               /></a>
@@ -61,7 +61,7 @@
 
             <a href="#"> 
               <img
-              src="/template_tsa/img/batidoras de mano3.jpg"
+              src="../img/batidoras de mano3.jpg"
               alt=""
               class="type-img"
               /></a>

@@ -23,7 +23,7 @@
 
             <a href="#"> 
                 <img
-                src="../template_tsa/img/brands/batidoras-marca-moulinex-logo.png"
+                src="../img/brands/batidoras-marca-moulinex-logo.png"
                 alt="imagen de marca de batidoras moulinex"
                 class="type-img"
                 /></a>
@@ -41,7 +41,7 @@
 
             <a href="#"> 
                 <img
-                src="../template_tsa/img/brands/logo-homgeek.png"
+                src="../img/brands/logo-homgeek.png"
                 alt="imagen de marca de batidoras homgeek"
                 class="type-img"
                 /></a>
@@ -59,7 +59,7 @@
 
             <a href="#"> 
                 <img
-                src="../template_tsa/img/brands/bosh-logo.png"
+                src="../img/brands/bosh-logo.png"
                 alt="imagen de marca de batidoras bosh"
                 class="type-img"
                 /></a>

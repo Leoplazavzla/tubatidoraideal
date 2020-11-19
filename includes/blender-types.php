@@ -11,7 +11,7 @@
     </div>
 
     <div class="img">
-        <img src="../template_tsa/img/diferentes-tipos-y-modelos-de-batidoras.png" alt="imagen de varios tipod de batidoras disponibles en el mercado">
+        <img src="../img/diferentes-tipos-y-modelos-de-batidoras.png" alt="imagen de varios tipod de batidoras disponibles en el mercado">
     </div>
     
     <article>
