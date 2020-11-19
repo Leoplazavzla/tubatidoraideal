@@ -47,7 +47,7 @@
 
                               <a href="https://amzn.to/35B2cG7">
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/accesorios-batidora-de-mano-moulinex-quickchef.jpg"
+                              src="../img/reviews/moulinex-quickchef/accesorios-batidora-de-mano-moulinex-quickchef.jpg"
                               alt="foto de accesorios de batidora moulinex quickchef barata"
                               class="analysis-gallery-img"
                               /></a>
@@ -60,7 +60,7 @@
 
                               <a href="https://amzn.to/35B2cG7"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/comprar-batidora-moulinex-quickchef-1000w.jpg"
+                              src="../img/reviews/moulinex-quickchef/comprar-batidora-moulinex-quickchef-1000w.jpg"
                               alt="foto presentacion de batidora moulinex en rebaja"
                               class="analysis-gallery-img"
                               /></a>
@@ -73,7 +73,7 @@
 
                               <a href="https://amzn.to/35B2cG7"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-barata.jpg"
+                              src="../img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-barata.jpg"
                               alt="foto de batidora moulinex quickchef barata"
                               class="analysis-gallery-img"
                               /></a>
@@ -86,7 +86,7 @@
 
                               <a href="https://amzn.to/35B2cG7"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/agarre-batidora-moulinex-quickchef-1000w.jpg"
+                              src="../img/reviews/moulinex-quickchef/agarre-batidora-moulinex-quickchef-1000w.jpg"
                               alt="foto-del-agarre-de-la-batidora-moulinex-quickchef-1000w"
                               class="analysis-gallery-img"
                               /></a>
@@ -99,7 +99,7 @@
 
                               <a href="https://amzn.to/35B2cG7"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-de-vaso-moulinex-quickchef-en-oferta.jpg"
+                              src="../img/reviews/moulinex-quickchef/batidora-de-vaso-moulinex-quickchef-en-oferta.jpg"
                               alt="foto del vaso de la batidora moulinex quickchef 1000w"
                               class="analysis-gallery-img"
                               /></a>
@@ -143,7 +143,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/2HC8U6y"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-amazon.jpg"
+                              src="../img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-amazon.jpg"
                               alt="imagen de moulinex quickchef barata en oferta"
                               class="product-horizontal-img"
                               /></a></td>
@@ -237,7 +237,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/2U1dm1w" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/comprar-moulinex-infiny-force.jpg"
+                              src="../img/reviews/moulinex-quickchef/comprar-moulinex-infiny-force.jpg"
                               alt="batidora moulinex infiny force en oferta"
                               class="product-horizontal-img"
                               /></a></td>
@@ -300,7 +300,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/321MgLY"> 
                               <img
-                              src="/template_tsa/img/reviews/homgeek/batidora-de-mano-moulinex-powelix-life-200px.jpg"
+                              src="../img/reviews/homgeek/batidora-de-mano-moulinex-powelix-life-200px.jpg"
                               alt=""
                               class="product-horizontal-img"
                               /></a></td>
@@ -362,7 +362,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/3k8BQR8"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-moulinex-power-mix-200px.jpg"
+                              src="../img/reviews/moulinex-quickchef/batidora-moulinex-power-mix-200px.jpg"
                               alt="foto de batidora moulinex power mix de 200px"
                               class="product-horizontal-img"
                               /></a></td>
@@ -468,7 +468,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/2HC8U6y"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-amazon.jpg"
+                              src="../img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-amazon.jpg"
                               alt=""
                               class="product-horizontal-img"
                               /></a></td>

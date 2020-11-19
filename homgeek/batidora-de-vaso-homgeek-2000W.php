@@ -57,7 +57,7 @@
 
                               <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank">
                               <img
-                              src="/template_tsa/img/reviews/homgeek/batidora-de-vaso-profesional-homgeek-barata.jpg"
+                              src="../img/reviews/homgeek/batidora-de-vaso-profesional-homgeek-barata.jpg"
                               alt="foto de accesorios de batidora profesional homgeek barata"
                               class="analysis-gallery-img"
                               /></a>
@@ -70,7 +70,7 @@
 
                               <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/homgeek/batidora-de-vaso-profesional-homgeek-en oferta.jpg"
+                              src="../img/reviews/homgeek/batidora-de-vaso-profesional-homgeek-en oferta.jpg"
                               alt="foto de las cuchillas de la batidora homgeek profesional"
                               class="analysis-gallery-img"
                               /></a>
@@ -83,7 +83,7 @@
 
                               <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/homgeek/batidora-de-vaso-profesional-homgeek-funciones.jpg"
+                              src="../img/reviews/homgeek/batidora-de-vaso-profesional-homgeek-funciones.jpg"
                               alt="foto de la pantalla led de la batidora homgeek profesional 2000w"
                               class="analysis-gallery-img"
                               /></a>
@@ -96,7 +96,7 @@
 
                               <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/homgeek/oferta-de-batidora-de-vaso-profesional-homgeek.jpg"
+                              src="../img/reviews/homgeek/oferta-de-batidora-de-vaso-profesional-homgeek.jpg"
                               alt="foto mostrando las dimensiones del vaso de la batidora homgeek profesional"
                               class="analysis-gallery-img"
                               /></a>
@@ -109,7 +109,7 @@
 
                               <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/homgeek/comprar-batidora-de-vaso-portatil-homgeek-barata.jpg"
+                              src="../img/reviews/homgeek/comprar-batidora-de-vaso-portatil-homgeek-barata.jpg"
                               alt="foto del uso portatil de la batidora homgeek 350w"
                               class="analysis-gallery-img"
                               /></a>
@@ -152,7 +152,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/products/batidora-de-vaso-profesional-homgeek-2000w.jpg"
+                              src="../img/products/batidora-de-vaso-profesional-homgeek-2000w.jpg"
                               alt="imagen de la batidora profesional homgeek 2000w"
                               class="product-horizontal-img"
                               /></a></td>
@@ -250,7 +250,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/3oO8cnA" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/products/homgeek-batidora-smoothies-plata-200px.jpg"
+                              src="../img/products/homgeek-batidora-smoothies-plata-200px.jpg"
                               alt=""
                               class="product-horizontal-img"
                               /></a></td>
@@ -313,7 +313,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/2TOngU7" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/products/mini-batidora-portatil-homgeek-200px.jpg"
+                              src="../img/products/mini-batidora-portatil-homgeek-200px.jpg"
                               alt=""
                               class="product-horizontal-img"
                               /></a></td>
@@ -376,7 +376,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/homgeek/oferta-de-batidora-de-mano-portatil-homgeek.jpg"
+                              src="../img/reviews/homgeek/oferta-de-batidora-de-mano-portatil-homgeek.jpg"
                               alt="imagen de la batidora homgeek 350w con su vaso"
                               class="product-horizontal-img"
                               /></a></td>
@@ -438,7 +438,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/3889qUQ" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/products/batidora-de-vaso-Homgeek-jarra-titan-en-oferta-200px.jpg"
+                              src="../img/products/batidora-de-vaso-Homgeek-jarra-titan-en-oferta-200px.jpg"
                               alt="comprar batidora de vaso homgeek jarra titan 2000w"
                               class="product-horizontal-img"
                               /></a></td>
@@ -545,7 +545,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/products/batidora-de-vaso-profesional-homgeek-2000w.jpg"
+                              src="../img/products/batidora-de-vaso-profesional-homgeek-2000w.jpg"
                               alt="imagen de la batidora profesional homgeek 2000w"
                               class="product-horizontal-img"
                               /></a></td>
