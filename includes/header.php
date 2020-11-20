@@ -7,7 +7,7 @@
   </div>
 
   <ul class="nav-link">
-        <li><a href="./index.php" >Home</a></li>
+        <li><a href="../index.php" >Home</a></li>
         <li><a href="#" >Modelos</a></li>
         <li><a href="#" >Marcas</a></li>
         <li><a href="#" >Reseñas</a></li>
