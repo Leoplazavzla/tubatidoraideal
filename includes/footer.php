@@ -13,7 +13,7 @@
                   <h2 class="form-title">Enlaces útiles</h2>
 
                   <ul class="box">
-                  <li><a href="https://tubatidoraideal.com/">Inicio</a></li>
+                  <li><a href="../index.php/">Inicio</a></li>
                   <li><a href="../aviso-legal.php">Aviso Legal</a></li>
                   <li><a href="../politica-de-cookies.php">Política de Cookies</a></li>
                   </ul>
