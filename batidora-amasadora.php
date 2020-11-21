@@ -69,7 +69,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <td class=""><a href="https://amzn.to/2UFpOnY" rel="nofollow" target="_blank"> 
                               <img
                               src="https://images-na.ssl-images-amazon.com/images/I/81p9JVVmDGL._AC_SL1500_.jpg"
-                              alt="batidora moulinex infiny force en oferta"
+                              alt="batidora amasadora cecotec cecomixer en oferta"
                               class="product-horizontal-img"
                               height="200px"
                               /></a></td>
@@ -84,12 +84,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </td></tr>
                                     <tr><td>
                                           <ul class="product-analysis-list">
-                                                <li>- Tiene una potencia de 1000W (watts)</li>
-                                                <li>- Construcción en acero inoxidable</li>
-                                                <li>- Piezas aptas para el lavavajillas</li>
-                                                <li>- Cuenta con 25 velocidades turbo</li>
-                                                <li>- Asa ergonómica y mango suave y antideslizante</li>
-                                                <li>- 4 cuchillas antiatascos</li>
+                                                <li>- Tiene una potencia de 250W (watts)</li>
+                                                <li>- Movimiento angular</li>
+                                                <li>- Bol acero inoxidable</li>
+                                                <li>- Posee 5 funciones, incluida emulsionar</li>
+                                                <li>- Cuenta con 6 velocidades turbo</li>
                                           </ul>
                                     </td></tr>
 
@@ -130,10 +129,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <table class="tabla">
                   <tbody>
                         <tr>
-                        <td class=""><a href="https://amzn.to/321MgLY"> 
+                        <td class=""><a href="https://amzn.to/38ZkLXQ"> 
                               <img
-                              src="../img/reviews/homgeek/batidora-de-mano-moulinex-powelix-life-200px.jpg"
-                              alt=""
+                              src="https://images-na.ssl-images-amazon.com/images/I/71wM4QOK2vL._AC_SL1500_.jpg"
+                              alt="batidora-amasadora-reposteria-Cheflee barata"
                               class="product-horizontal-img"
                               height="200px"
                               /></a></td>
@@ -143,17 +142,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <tr ><td >
                                           <div class="product-title-horizontal">
                                                 
-                                                <a href="https://amzn.to/321MgLY"><h3 class="card-title">Batidora de mano Moulinex Powelix Life - 1200W</h3></a>
+                                                <a href="https://amzn.to/38ZkLXQ"><h3 class="card-title">Batidora amasadora profesional Cheflee - 1800W</h3></a>
                                           </div>      
                                     </td></tr>
                                     <tr><td>
                                           <ul class="product-analysis-list">
-                                                <li>- Tiene una potencia de 1200W (watts)</li>
-                                                <li>- Velocidad ajustable</li>
-                                                <li>- Piezas aptas para el lavavajillas</li>
-                                                <li>- Incluye varilla batidora y accesorio para salsas</li>
-                                                <li>- Mango ergonómico y esturctura antisalpicaduras</li>
-                                                <li>- Pie desmontable (acero inoxidable)</li>
+                                                <li>- Tiene una potencia de 1800W (watts)</li>
+                                                <li>- Bol de acero inoxidable de 7,2 Litros</li>
+                                                <li>- Cuenta con 6 velocidades</li>
+                                                <li>- 3 colores (Dorado Champagne, Plata y Gris hierro)</li>
+                                                <li>- Esturctura antisalpicaduras</li>
+                                                <li>- Proteccion de sobrecarga y sobrecalentamiento</li>
                                           </ul>
                                     </td></tr>
 
@@ -172,7 +171,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </td></tr>
                                     <tr><td>
                                     <div class="amazon-link">
-                                          <a href="https://amzn.to/321MgLY" class="product-link-horizontal">Comprar en Amazon</a>
+                                          <a href="https://amzn.to/38ZkLXQ" class="product-link-horizontal">Comprar en Amazon</a>
                                           </div>
                                     </td></tr>
                                     </tbody>
