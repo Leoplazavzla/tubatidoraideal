@@ -107,7 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!---------------------------------------- COOKIE CONSENT ----------------------------------------->
 
-    <?php include '../includes/cookie-consent.php'; ?>
+    <?php include 'includes/cookie-consent.php'; ?>
     
     <!---------------------------------------- SCRIPTS ----------------------------------------->
     <?php include "includes/scripts.php"; ?>

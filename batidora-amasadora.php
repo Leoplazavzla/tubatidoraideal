@@ -23,7 +23,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
             <!---------------------------------------- HEADER --------------------------------------------->
-            <?php include ('../includes/header.php'); ?>
+            <?php include ('./includes/header.php'); ?>
 
             <main class="analysis-main">
 
@@ -465,11 +465,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </main>
 
             <!---------------------------------------- FOOTER ----------------------------------------->
-            <?php include './includes/footer.php'; ?>
+            <?php include "includes/footer.php"; ?>
 
             <!---------------------------------------- COOKIE CONSENT ----------------------------------------->
 
-            <?php include './includes/cookie-consent.php'; ?>
+            <?php include "includes/cookie-consent.php"; ?>
 
             <!---------------------------------------- SCRIPTS ----------------------------------------->
 
