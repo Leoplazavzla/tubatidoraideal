@@ -26,7 +26,7 @@
             <a href="../batidora-amasadora.php"> 
               <img
               src="../img/kitchenaid-barata.jpg"
-              alt=""
+              alt="imagen de batidora amasadora kitchenaid"
               class="type-img"
               /></a>
               <div >
@@ -41,10 +41,10 @@
         <div class="type">
           <div class="type-container">
 
-            <a href="#"> 
+            <a href="../batidora-de-vaso.php"> 
               <img
               src="../img/batidora-de-vaso-en-oferta.jpg"
-              alt=""
+              alt="imagen de batidora de vaso"
               class="type-img"
               /></a>
               <div>
