@@ -36,7 +36,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             </div>
       <!---------------------------------------- First text --------------------------------------------->
-      <section class="analysis-text">
+      <section class="analysis-parrafo">
             <article>
                   <div>
                   <p class="analysis-parrafo">En la actualidad, nos encontramos con un ayudante para nuestras cocinas muy practico y facil de usar para lograr nuestras recetas favoritas de reposteria. Te hablamos de la <strong>Batidora Amasadora</strong>, una herramienta diseñada para cumplir las funciones de amasado, mezclado, y batido continuo de grandes cantidades de masa. 
@@ -192,9 +192,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <table class="tabla">
                   <tbody>
                         <tr>
-                        <td class=""><a href="https://amzn.to/3k8BQR8"> 
+                        <td class=""><a href="https://amzn.to/3pJzD2m"> 
                               <img
-                              src="../img/reviews/moulinex-quickchef/batidora-moulinex-power-mix-200px.jpg"
+                              src="https://images-na.ssl-images-amazon.com/images/I/81BCIN00zKL._AC_SL1500_.jpg"
                               alt="foto de batidora moulinex power mix de 200px"
                               class="product-horizontal-img"
                               height="200px"
@@ -205,17 +205,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <tr ><td >
                                           <div class="product-title-horizontal">
                                                 
-                                                <a href="https://amzn.to/3k8BQR8"><h3 class="card-title">Batidora de mano Moulinex Power Mix - 500W</h3></a>
+                                                <a href="https://amzn.to/3pJzD2m"><h3 class="card-title">Batidora amasadora Bomann - 1200W</h3></a>
                                           </div>      
                                     </td></tr>
                                     <tr><td>
                                           <ul class="product-analysis-list">
-                                                <li>- Tiene una potencia de 500W (watts)</li>
-                                                <li>- Dos set de varillas</li>
-                                                <li>- 5 velocidades y turbo</li>
-                                                <li>- Bol de plástico y giro automático</li>
-                                                <li>- Espátula mezcladora</li>
-                                                <li>- Botón de expulsión de varillas</li>
+                                                <li>- Tiene una potencia de 1200W (watts)</li>
+                                                <li>- Bol de acero inoxidable de 5,6 Litros</li>
+                                                <li>- Cuenta con 6 velocidades</li>
+                                                <li>- Tapa de proteccion contra salpicaduras</li>
+                                                <li>- Incluye 3 accesorios para mezclar</li>
+                                                <li>- Incluye bascula de cocina</li>
                                           </ul>
                                     </td></tr>
 
@@ -234,7 +234,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </td></tr>
                                     <tr><td>
                                     <div class="amazon-link">
-                                          <a href="https://amzn.to/3k8BQR8" class="product-link-horizontal">Comprar en Amazon</a>
+                                          <a href="https://amzn.to/3pJzD2m" class="product-link-horizontal">Comprar en Amazon</a>
                                           </div>
                                     </td></tr>
                                     </tbody>
@@ -255,21 +255,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <section class="analysis-text">
             <article>
                   <div>
-                        <h2 class="analysis-subtitle">Características</h2>
+                        <h2 class="analysis-subtitle">Características de la batidora amasadora</h2>
                         <div>
-                        <p class="analysis-parrafo">Tiene una gran comodidad de uso y funciones innovadoras por lo que es uno de los accesorios indicados para renovar el espacio de tu cocina. En la siguiente lista te comparto las propiedades mas destacadas de esta batidora:</p>
-                        </div>
-                        <ul class="analysis-list">
-                              <li>Tiene una potencia de 1000W (watts)</li>
-                              <li>Velocidad ajustable</li>
-                              <li>Funciones turbo y pulse</li>
-                              <li>Picadora de 500ml</li>
-                              <li>Piezas aptas para el lavavajillas</li>
-                              <li>Incluye varilla batidora y accesorio para salsas</li>
-                              <li>Mango suave y antideslizante</li>
-                              <li>Pie desmontable (acero inoxidable)</li>
-                              <li>Accesorio picador y emulsionador</li>
-                        </ul>
+                        <p class="analysis-parrafo">Por su tamaño y potencia, este producto, por lo general cuenta con caracteristicas que estan principalmente adecuadas para la hora de amasar, batir o mezclar. Cumpliendo de esta manera solo estas tres funcionalidades.</p>
+
+                        <p class="analysis-subtitle">Es muy importante destacar la calidad de cada una de ellas, tanto en potencia como en su bajo ruido. Asimismo, con tar con un set de accesorios que te ayudaran al momento de batir o amasar cualquier receta.</p>
+                        <p class="analysis-subtitle">De esta manera, tendremos presente que si necesitas una buena batidora amasadora, la elijas tanto por el prestigio de la marca creadora, como por su capacidad de equiparar las funcionalidades de otras batidoras en el mercado. Ya sea su equivalencia en litros, numero de velocidades y el tiempo de funcionamiento para evitar que se sobrecaliente.</p>
                   </div>
             </article>
 
@@ -282,12 +273,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <table class="tabla">
                   <tbody>
                         <tr>
-                        <td class=""><a href="https://amzn.to/2HC8U6y"> 
+                        <td class=""><a href="https://amzn.to/2Hn9LYO"> 
                               <img
-                              src="../img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-amazon.jpg"
-                              alt="imagen de moulinex quickchef barata en oferta"
+                              src="https://images-na.ssl-images-amazon.com/images/I/71AcWpS9G1L._AC_SL1498_.jpg"
+                              alt="Batidora amasadora de bajo ruido Aicock en oferta"
                               class="product-horizontal-img"
-                              height="200px"
                               /></a></td>
                         <td>
                               <table class="column1">
@@ -295,17 +285,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <tr ><td >
                                           <div class="product-title-horizontal">
                                                 
-                                                <a href="https://amzn.to/35B2cG7"><h3 class="card-title">Batidora de mano Moulinex QuickChef - 1000W</h3></a>
+                                                <a href="https://amzn.to/2Hn9LYO"><h3 class="card-title">Batidora amasadora de bajo ruido Aicok - 1000W</h3></a>
                                           </div>      
                                     </td></tr>
                                     <tr><td>
                                           <ul class="product-analysis-list">
                                                 <li>- Tiene una potencia de 1000W (watts)</li>
-                                                <li>- Velocidad ajustable</li>
-                                                <li>- Piezas aptas para el lavavajillas</li>
-                                                <li>- Incluye varilla batidora y accesorio para salsas</li>
+                                                <li>- Simula el amasado manual</li>
+                                                <li>- De 70 a 80Db de ruido (Muy silenciosa)</li>
+                                                <li>- Posee 6 velocidades</li>
                                                 <li>- Mango suave y antideslizante</li>
-                                                <li>- Pie desmontable (acero inoxidable)</li>
+                                                <li>- Bol de acero inoxidable de 5 Litros</li>
                                           </ul>
                                     </td></tr>
 
@@ -324,7 +314,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </td></tr>
                                     <tr><td>
                                     <div class="amazon-link">
-                                          <a href="https://amzn.to/35B2cG7" class="product-link-horizontal">Comprar en Amazon</a>
+                                          <a href="https://amzn.to/2Hn9LYO" class="product-link-horizontal">Comprar en Amazon</a>
                                           </div>
                                     </td></tr>
                                     </tbody>
@@ -339,44 +329,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
       </article>
       
+      </section>
+      
 
 
 
-      <!---------------------------------------- Functionalities --------------------------------------------->
+      <!---------------------------------------- Characteristics --------------------------------------------->
       <section>
             <article>
-                  <div>
-                  <h2 class="analysis-subtitle">Funcionalidad</h2>
-                  </div>
-                  <div><p class="analysis-parrafo">La batidora Moulinex Quickchef está equipada con tecnología <a href="https://www.moulinex.es/batidoras_tecnologia_powelix" class="analysis-link" target="_blank" rel="nofollow">POWELIX</a>  y sus cuchillas te proporcionan texturas cremosas, suaves y sin grumos. Tiene la capacidad de triturar frutos secos, picar hielo, picar carne cruda en pequeñas cantidades; asimismo, puedes cocinar papillas, cremas, salsas, batidos, zumos y mucho más.</p>
-                  </div>
-                  <div class=""><p class="analysis-parrafo">En éste video podrás verla en acción:</p></div>
+                  <h2 class="analysis-subtitle">¿De que material esta hecho el cuerpo de la batidora amasadora?</h2>
+                  
+                  <p class="analysis-parrafo">Es una de las principales preguntas que nos realizamos al momento de obtener una batidora amasadora. Podemos encontrarnos con material de plastico, de acero inoxidable o de aluminio. Posiblemente te encontraras con unas batidoras que estan diseñadas todas de metal. Debes tener en cuenta que esto va a influir en el precio, al igual que la marca.</p>
             </article>
 
-            <article>
-                  <div class="analysis-video">
-
-                        <iframe width="660" height="415" src="https://www.youtube.com/embed/yjuREtPQytM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-            </article>
       </section>
-
-
 
       <!---------------------------------------- Advantages --------------------------------------------->
       <section>
             <article>
             <div>
-            <h2 class="analysis-subtitle">¿Qué ventajas te ofrece la Moulinex QuickChef?</h2>
+            <h2 class="analysis-subtitle">Principales ventajas de una Batidora Amasadora</h2>
             </div>
             <div>
                   <ul class="analysis-list">
-                        <li><strong>Look moderno:</strong> Luce una elegante tonalidad plateada que hará resaltar tu cocina. No pasará desapercibida.</li>
-                        <li><strong>Agradable al tacto:</strong> Cuenta con un brazo antideslizante que te permite cogerla de una manera cómoda y segura. Evitando accidentes o derrames.</li>
-                        <li><strong>Alta precisión:</strong> Con ésta batidora podrás conseguir una mayor precisión en la preparacion de tus recetas favoritas.</li>
-                        <li><strong>Control de medidas:</strong> Su vaso transparente cuenta con un panel medidor en relieve. Algo que ayuda mucho a la hora de controlar las medidas de los ingredientes.</li>
-                        <li><strong>Varilla multiuso:</strong> La varilla emulsionadora te permite batir en segundos las claras de huevo y cremas.</li>
-                        <li><strong>Portabilidad:</strong> Quizás la mejor ventaja de la batidora de mano QuickChef es su alta portabilidad. Podrás almacenarla en cualquier lugar ya que por su tamaño compacto hace que se ajuste a cocinas con limitaciones de espacio.</li>
+                        <li><strong>Multifuncionalidad:</strong> Una batidora amasadora te ayudara en tus recetas de reposteria y panaderia por sus multiples funciones.</li>
+                        <li><strong>Accesorios:</strong> Cuanta con varios tipos de accesorios utiles para sus principales preparaciones, como un bol amplio para la capacidad de masa que desees mezclar.</li>
+                        <li><strong>Potencia:</strong> Esto dependera de tu compra, porque existen diferentes tipos de potencia, dependiendo de su tamaño y calidad.</li>
                   </ul>
             </div>
             </article>
@@ -389,14 +367,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=prime_video&banner=0RW1X5CZ1G2V2RDE87R2&f=ifr&linkID=8099b04286ec8dadcd0353be9c9ebb59&t=leoplazavzla-21&tracking_id=leoplazavzla-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
             </div>
       </section>
-      <!---------------------------------------- Conclusions --------------------------------------------->
-      <section>
+
+       <!---------------------------------------- Types and Models --------------------------------------------->
+       <section>
             <article>
                   <div>
-                  <h2 class="analysis-subtitle">Conclusiones</h2>
+                  <h2 class="analysis-subtitle">Tipos y modelos de Batidoras amasadoras</h2>
                   </div>
-                  <div><p class="analysis-parrafo">Se adapta a tu recetario cotidiano y te permite crear alternativas innovadoras, pues su pack de facilita los elementos para empezar a cocinar de inmediato. Esta es una solucion pensada para ahorrarte tiempo y dinero. <br />
-                  Si necesitas una batidora versátil para uso domestico por debajo de los €50, éste es el producto que estas buscando :-)</p>
+                  <div><p class="analysis-parrafo">Las batidoras amasadoras las podemos encontrar en diferentes variedades, tanto en tamaño, como en calidad de construccion. Existen los modelos mas usadas en nuestros hogares hasta las que encontrariamos en una pasteleria por la cantidad de trabajo que ayudan a eliminar.</p>
+
+                  <p class="analysis-parrafo">A continuacion te señalamos los diferentes tipos de batidoras amasadoras que existen en el mercado:</p>
+
+                  <ul class="product-analysis-list">
+                        <li><strong>Batidora amasadora profesional:</strong> Es una batidora usada mayormente en reposteria. Cuenta comunmente con una capacidad considerable de 7,2 litros y al menos, 6 velocidades.</li>
+                        <li><strong>Batidora con gancho para masa:</strong> Este tipo de batidoras las puedes conseguir desde los 1000W y con mayor potencia. Siempre vienen con un brazo mezclador.</li>
+                        <li><strong>Batidora amasadora para procesar alimentos:</strong> Es muntifuncional, de bajo ruido y con proteccion de salpicaduras.</li>
+                        <li><strong>Batidora amasadora multifuncional:</strong> Cuenta con dos ganchos para el momento de amasar y suele ser de muy bajo ruido. Es la ideal para reposteria por sus multiples funciones.</li>
+                        <li><strong>Batidora amasadora de varillas:</strong> Es una batidora amasadora ideal para tenerla en casa ya que suele ser mas pequeña que el resto de amasadoras y cuenta con dos ganchos para el amasado. Tomando en cuenta que te facilita agregar de una manera muy comoda los ingredientes.</li>
+                        <li><strong>Batidora amasadora de movimiento orbital:</strong> Te ayuda en la funcion de amasar, batir, mezclar y emulsionar. Esto la hace la favorita de los reposteros, pizzeros y panaderos ya que cumple todas las funciones que necesitan y les permite reducir a minutos tareas que anteriormente tomaban horas.</li>
+                  </ul>
+
+
                   </div>
             </article>
       </section>
@@ -404,17 +395,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <!---------------------------------------- Best Offer --------------------------------------------->
       <section>
       <article>
-      <h2>Mejor oferta de batidora de mano Moulinez QuickChef</h2>
+      <h2>Mejor oferta de batidora amasadora en Amazon.es</h2>
       
       <article class="horizontal-item">
             <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
-                        <td class=""><a href="https://amzn.to/2HC8U6y"> 
+                        <td class=""><a href="https://amzn.to/3flBWUG"> 
                               <img
-                              src="../img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-amazon.jpg"
-                              alt=""
+                              src="https://images-na.ssl-images-amazon.com/images/I/51mMHQsZdhL._AC_SL1200_.jpg"
+                              alt="batidora amasadora multifuncion Kenwood kMix KMX75AB barata"
                               class="product-horizontal-img"
                               /></a></td>
                         <td>
@@ -423,17 +414,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <tr ><td >
                                           <div class="product-title-horizontal">
                                                 
-                                                <a href="https://amzn.to/35B2cG7"><h3 class="card-title">Batidora de mano Moulinex QuickChef - 1000W</h3></a>
+                                                <a href="https://amzn.to/3flBWUG"><h3 class="card-title">Batidora amasadora multifuncional Kenwood - 1000W</h3></a>
                                           </div>      
                                     </td></tr>
                                     <tr><td>
                                           <ul class="product-analysis-list">
                                                 <li>- Tiene una potencia de 1000W (watts)</li>
-                                                <li>- Velocidad ajustable</li>
-                                                <li>- Piezas aptas para el lavavajillas</li>
-                                                <li>- Incluye varilla batidora y accesorio para salsas</li>
-                                                <li>- Mango suave y antideslizante</li>
-                                                <li>- Pie desmontable (acero inoxidable)</li>
+                                                <li>- Motor de alta calidad y resistencia</li>
+                                                <li>- Incluye gancho de amasar, varillas y mezclador con forma K</li>
+                                                <li>- Bol de acero inoxidable de 5 litros</li>
+                                                <li>- Gran variedad de accesorios Kenwood compatibles</li>
+                                                <li>- Bol y accesorios aptos para el lavavajillas</li>
                                           </ul>
                                     </td></tr>
 
@@ -452,7 +443,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </td></tr>
                                     <tr><td>
                                     <div class="amazon-link">
-                                          <a href="https://amzn.to/35B2cG7" class="product-link-horizontal">Comprar en Amazon</a>
+                                          <a href="https://amzn.to/3flBWUG" class="product-link-horizontal">Comprar en Amazon</a>
                                           </div>
                                     </td></tr>
                                     </tbody>
@@ -472,15 +463,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </main>
 
             <!---------------------------------------- FOOTER ----------------------------------------->
-            <?php include '../includes/footer.php'; ?>
+            <?php include './includes/footer.php'; ?>
 
             <!---------------------------------------- COOKIE CONSENT ----------------------------------------->
 
-            <?php include '../includes/cookie-consent.php'; ?>
+            <?php include './includes/cookie-consent.php'; ?>
 
             <!---------------------------------------- SCRIPTS ----------------------------------------->
 
-            <script src="../js/app.js"></script>
+            <script src="./js/app.js"></script>
 
       </body>
 </html>
