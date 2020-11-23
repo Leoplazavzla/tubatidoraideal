@@ -3,7 +3,7 @@
 <nav class="top-menu" id="top-menu">
 
 <div class="logo">
-    <a href="#" class="home-title"> <img src="../img/Logo/text-logo.png" alt=""></a>
+    <a href="../index.php" class="home-title"> <img src="../img/Logo/text-logo.png" alt=""></a>
   </div>
 
   <ul class="nav-link">

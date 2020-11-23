@@ -23,7 +23,7 @@
         <div class="type">
           <div class="type-container">
 
-            <a href="#"> 
+            <a href="../batidora-amasadora.php"> 
               <img
               src="../img/kitchenaid-barata.jpg"
               alt=""
