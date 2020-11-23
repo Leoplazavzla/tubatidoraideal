@@ -278,6 +278,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               src="https://images-na.ssl-images-amazon.com/images/I/71AcWpS9G1L._AC_SL1498_.jpg"
                               alt="Batidora amasadora de bajo ruido Aicock en oferta"
                               class="product-horizontal-img"
+                              height="300px"
                               /></a></td>
                         <td>
                               <table class="column1">
@@ -407,6 +408,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               src="https://images-na.ssl-images-amazon.com/images/I/51mMHQsZdhL._AC_SL1200_.jpg"
                               alt="batidora amasadora multifuncion Kenwood kMix KMX75AB barata"
                               class="product-horizontal-img"
+                              height="300px"
                               /></a></td>
                         <td>
                               <table class="column1">
