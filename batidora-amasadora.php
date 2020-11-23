@@ -32,7 +32,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!---------------------------------------- Image --------------------------------------------->
             <div class="highlighted-img">
             <div class="analysis-img">
-            <img src="../img/reviews/moulinex-quickchef/batidora-de-mano-moulinex-quickchef-1000W.jpg" alt="imagen del set de productos de batidora moulinex quickchef">
+            <img src="../img/batidora-amasadora-en-oferta.jpg" alt="imagen de batidora amasadora roja">
             </div>
             </div>
       <!---------------------------------------- First text --------------------------------------------->
