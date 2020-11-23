@@ -365,7 +365,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <section>
             <div class="analysis-banner">
-            <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=prime_video&banner=0RW1X5CZ1G2V2RDE87R2&f=ifr&linkID=8099b04286ec8dadcd0353be9c9ebb59&t=leoplazavzla-21&tracking_id=leoplazavzla-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+            <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=premium&banner=1E7ZEBFW3E0G3W1WXZ82&f=ifr&linkID=7f58b01ad95c2b188d76158e2c25aa1f&t=leoplazavzla-21&tracking_id=leoplazavzla-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
             </div>
       </section>
 
