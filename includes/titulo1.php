@@ -19,6 +19,6 @@
     </div>
     </div>
     <div class="subtitle">
-      <h2>Análisis de las mejores batidoras de 2020:</h2>
+      <h2>Análisis de las mejores batidoras de 2022:</h2>
 
     </div>
